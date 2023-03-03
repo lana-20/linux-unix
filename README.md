@@ -5,3 +5,5 @@
 [Vi Editor Cheat Sheet](https://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)
 
 [UNIX Command-Line Cheat Sheet](https://github.com/lana-20/linux-unix/blob/main/unix_command_sheet_2014.pdf)
+
+[A fast way to navigate over command line in a shell program](https://github.com/lana-20/fast-cli-nav-ops)
